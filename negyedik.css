@@ -23,8 +23,9 @@ header>div{
 
 header+div{
     display: flex;
-    width: 100vw;
+    width: 80vw;
     height: 90vh;
+    margin:0 20vw 0 20vw;
 }
 
 main{
